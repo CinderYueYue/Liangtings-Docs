@@ -1,1 +1,2 @@
-www.leinn.cn
+touch CNAME
+echo 'leinn.cn' > CNAME
